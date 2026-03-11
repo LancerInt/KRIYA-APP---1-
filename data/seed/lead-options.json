@@ -1,0 +1,6 @@
+{
+  "partnerTypes": ["Distributor","Importer","Retailer","Farmer Group","Manufacturer","Private Label"],
+  "interestTags": ["Microbials","Azadirachtin","All Products"],
+  "businessTags": ["Bulk Buyer","Distributor","Private Label","Registration Inquiry"],
+  "purchaseVolumeRanges": ["< 1 ton","1 – 5 tons","5 – 20 tons","20+ tons"]
+}

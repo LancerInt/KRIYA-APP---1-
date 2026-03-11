@@ -1,0 +1,51 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "jsx": "react-jsx",
+    "strict": true,
+    "moduleResolution": "Bundler",
+    "baseUrl": ".",
+    "paths": {
+      "@app/*": [
+        "src/app/*"
+      ],
+      "@features/*": [
+        "src/features/*"
+      ],
+      "@shared/*": [
+        "src/shared/*"
+      ],
+      "@services/*": [
+        "src/services/*"
+      ],
+      "@db/*": [
+        "src/database/*"
+      ],
+      "@repos/*": [
+        "src/repositories/*"
+      ],
+      "@hooks/*": [
+        "src/hooks/*"
+      ],
+      "@store/*": [
+        "src/store/*"
+      ],
+      "@nav/*": [
+        "src/navigation/*"
+      ]
+    },
+    "types": [
+      "jest",
+      "react",
+      "react-native"
+    ],
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src",
+    "App.tsx",
+    "__tests__"
+  ]
+}

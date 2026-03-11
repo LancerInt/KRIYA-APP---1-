@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {"id":"cat-botanical","name":"Botanical Pesticides"},
+    {"id":"cat-microbial","name":"Microbial Pesticides"},
+    {"id":"cat-stimulants","name":"Bio Stimulants"},
+    {"id":"cat-fertilizers","name":"Biofertilizers"},
+    {"id":"cat-substrates","name":"Substrates"}
+  ],
+  "products": [
+    "Ecoza Max","Ecoza Ace","Ecoza Pro","Ecoza Rix","MargoShine","MargoRix","K-Guard","K-Rix","Spindura Plus","Spindura Rix","Spindura Pro","MargoSpin","WeedX","Admira Adyme","Admira Admon","Admira Adrlic","Admira Adove",
+    "Mycova","Rexora","Biota-V","Biota-H","Neuvita","Seira","EnCilo","Subtilix","Elixora",
+    "Zenita","Cropsia","Blooma","EnRhize","Orgocare","Envicta",
+    "IGreen NPK","IGreen SHIELD","IGreen N","IGreen P","IGreen K","IGreen Zn","IGreen S","IGreen Si",
+    "Mystica","Engrow","Maxineem","K-Mix"
+  ]
+}
